@@ -3,7 +3,7 @@
 
 **Hemanth Nag Chopparapu**
 
-- 👀 **Interests**: VLSI, Machine Learning, FPGA Development
+- 👀 **Interests**: VLSI, Web Development ,Machine Learning, FPGA Development
 - 💡 **Passionate about**: Exploring new techniques and staying updated with the latest trends in electronics and communication engineering.
 - 📊 **Objective**: To leverage my skills and knowledge to drive impactful innovations and advancements in technology.
 - 🌱 **Currently learning**: UVM, VHDL, Java DSA, and advanced hardware design
